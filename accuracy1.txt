@@ -1,0 +1,6 @@
+- Writing the model accuracy on training and test data
+
+313/313 - 2s - 8ms/step - accuracy: 0.7029 - loss: 1.0239
+print(test_acc) for 15 epochs
+0.7028999924659729
+
